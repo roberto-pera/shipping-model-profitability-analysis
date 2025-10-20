@@ -55,6 +55,8 @@ View on Tableau Public: [Tableau Dashboard Link](#)
 
 ### Dashboard 1 – Model Comparison Overview
 
+![Dashboard 1 - Model Comparison](dashboard_1_overview.png)
+
 **Objective:** Evaluate average cost and profit differences between the Baseline and Hypothesis models.
 
 #### Key KPIs
@@ -74,6 +76,8 @@ View on Tableau Public: [Tableau Dashboard Link](#)
 ---
 
 ### Dashboard 2 – Regional and Product Breakdown
+
+![Dashboard 2 - Regional and Product Breakdown](dashboard_2_regional.png)
 
 **Objective:** Assess cost reduction patterns across U.S. states and product categories.
 
