@@ -1,0 +1,26 @@
+invoice_no,transaction_date,customer_id,description,category,order_city,state,order_postal,region,latitude,longitude,quantity,costs,profit_per_unit,baseline_shipping_cost,hypothesis_factor,hypothesis_shipping_costs,profit_before_shipping,profit_after_baseline,profit_after_hypothesis
+540995,1/13/2021 9:30,,Sheba Perfect Portions Paté Wet Cat Food,Food,,,,,,,1,2.5,7.28,2.5,1.0,2.5,7.28,4.78,4.78
+575751,11/11/2021 10:32,14911,Pet Hair Remover,Grooming,edgard,LA,70049-2017,Central,30.0433,-90.5601,2,5,6.48,8.5,0.8,8.0,12.96,4.46,4.96
+562968,8/11/2021 10:55,14291,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,Food,warner robins,GA,31088-6499,East,32.621,-83.5999,1,20,41.5,20,1.0,20,41.5,21.5,21.5
+556279,6/9/2021 19:55,14562,Templation Soft Cat Treats,Pet Food,northbrook,IL,60062,Central,42.1297,-87.8305,1,6,6.48,6,1.0,6,6.48,0.48,0.48
+548522,3/31/2021 16:43,,UltraSound Dog Barking Deterrent,Electronics,,,,,,,1,5,9.7,5,1.0,5,9.7,4.7,4.7
+555002,5/31/2021 8:50,17682,Dog and Puppy Pads,Disposables,san antonio,TX,78254-6060,Central,29.4246,-98.4951,1,5,11.7,5,1.0,5,11.7,6.7,6.7
+558927,,18177,Earth Rated Dog Poop Bags,Disposables,greenleaf,WI,54126-9616,Central,44.3136,-88.0957,4,4,7.48,12.4,0.6,9.6,29.92,17.52,20.32
+563093,8/11/2021 17:28,,Earth Rated Dog Poop Bags,Disposables,,,,,,,1,4,19.78,4,1.0,4,19.78,15.78,15.78
+564061,8/22/2021 14:38,14505,Dog and Puppy Pads,Disposables,evanston,IL,60201-2565,Central,42.0447,-87.693,1,5,11.7,5,1.0,5,11.7,6.7,6.7
+545897,3/7/2021 17:22,,Earth Rated Dog Poop Bags,Disposables,,,,,,,1,4,19.78,4,1.0,4,19.78,15.78,15.78
+545999,3/8/2021 14:44,13089,Earth Rated Dog Poop Bags,Disposables,playa del rey,CA,90293-7902,West,33.9551,-118.4367,2,4,6.7,6.8,0.8,6.4,13.4,6.6,7.0
+578024,11/22/2021 13:27,12705,Purina Pro Plan Adult Sensitive Skin,Supplements,burlingame,CA,94010,West,37.5841,-122.3661,1,10,26.5,10,1.0,10,26.5,16.5,16.5
+568894,9/29/2021 13:04,17528,Purina ONE SmartBlend Natural Adult Chicken 10lb,Food,fort worth,TX,76111-2924,Central,32.7532,-97.3327,1,10,11.7,10,1.0,10,11.7,1.7,1.7
+578429,11/24/2021 12:12,16271,Earth Rated Dog Poop Bags,Disposables,brooklyn,NY,11222,East,40.6922,-73.9902,2,4,7.48,6.8,0.8,6.4,14.96,8.16,8.56
+574072,11/2/2021 14:58,15414,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,Disposables,brooklyn park,MN,55443-5418,Central,45.1005,-93.3444,1,9,8.7,9,1.0,9,8.7,-0.300000000000001,-0.300000000000001
+554033,5/20/2021 14:06,16187,Milk-Bone MaroSnacks Dog Treats with Real Bone,Food,las vegas,NV,89135-1650,West,36.1663,-115.1492,4,6,4.48,18.6,0.6,14.4,17.92,-0.679999999999996,3.52
+577071,11/17/2021 14:56,13969,ProBiotic Supplements for Dogs,Supplements,palm coast,FL,32164-5351,East,29.5541,-81.2208,1,7,12.5,7,1.0,7,12.5,5.5,5.5
+574898,11/7/2021 15:07,16242,Dog and Puppy Pads,Disposables,brockport,NY,14420-3015,East,43.2137,-77.9392,2,5,11.7,8.5,0.8,8.0,23.4,14.9,15.4
+570637,10/11/2021 12:34,12530,Milk-Bone MaroSnacks Dog Treats with Real Bone,Food,bella vista,AR,72715-4732,Central,36.4815,-94.2733,2,6,4.48,10.2,0.8,9.6,8.96,-1.24,-0.640000000000001
+579401,11/29/2021 12:12,14550,Templation Soft Cat Treats,Pet Food,mount prospect,IL,60056-1075,Central,42.0664,-87.9373,5,6,4.74,22.8,0.5,15.0,23.7,0.900000000000006,8.7
+576857,11/16/2021 15:52,12748,Milk-Bone MaroSnacks Dog Treats with Real Bone,Food,copperopolis,CA,95228-9644,West,37.981,-120.6419,1,6,4.48,6,1.0,6,4.48,-1.52,-1.52
+569237,10/2/2021 15:50,,ProBiotic Supplements for Dogs,Supplements,,,,,,,1,7,12.5,7,1.0,7,12.5,5.5,5.5
+561635,7/28/2021 14:35,16912,Purina Pro Plan Adult Sensitive Skin,Supplements,carlisle,PA,17013-3423,East,40.2018,-77.1894,1,10,24.7,10,1.0,10,24.7,14.7,14.7
+558731,7/1/2021 14:53,13285,Purina ONE SmartBlend Natural Adult Chicken 10lb,Food,santa monica,CA,90402-1206,West,34.0196,-118.487,1,10,11.7,10,1.0,10,11.7,1.7,1.7
+560119,7/15/2021 10:21,12815,Rechargeable Pet Nail Grinder,Grooming,fontana,CA,92336-1666,West,34.0922,-117.435,1,5,10.5,5,1.0,5,10.5,5.5,5.5
