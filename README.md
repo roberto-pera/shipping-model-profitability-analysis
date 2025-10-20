@@ -49,7 +49,7 @@ Two interactive dashboards were built in Tableau Public.
 
 ### Interactive Dashboard
 
-View on Tableau Public: [Tableau Dashboard Link](#)
+View on Tableau Public: [Tableau Dashboard Link](https://public.tableau.com/views/ShippingCostAnalysis_17609775769340/Dashboard1_modelcomparison?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
