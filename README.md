@@ -166,6 +166,9 @@ Full transformation logic is available in the main SQL file.
   - [`shipping_cost_analysis_dataset.csv`](shipping_cost_analysis_dataset.csv) – Final analytical dataset  
   - [`shipping_cost_sample.csv`](shipping_cost_sample.csv) – 20 random sample rows  
   - [`README.md`](README.md) – Project documentation
+  - [`data_model_overview.md`](data_model_overview.md) – Description of tables
+  - [`dashboard_1_overview.png`](dashboard_1_overview.png) – Screenshot: Dashboard 1 - Overview
+  - [`dashboard_2_regional.png`](dashboard_2_regional.png) – Screenshot: Dashboard 2 - Regional Analysis
 
 ---
 
