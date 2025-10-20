@@ -162,10 +162,10 @@ Full transformation logic is available in the main SQL file.
 
 **Project Structure**
 - `shipping-model-analysis/`
-  - `data_preparation_shipping_models.sql`
-  - `shipping_cost_analysis_dataset.csv`
-  - `shipping_cost_sample.csv`
-  - `README.md`
+  - [`data_preparation_shipping_models.sql`](data_preparation_shipping_models.sql) – SQL script for data cleaning and model logic  
+  - [`shipping_cost_analysis_dataset.csv`](shipping_cost_analysis_dataset.csv) – Final analytical dataset  
+  - [`shipping_cost_sample.csv`](shipping_cost_sample.csv) – 20 random sample rows  
+  - [`README.md`](README.md) – Project documentation
 
 ---
 
