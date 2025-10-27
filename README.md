@@ -172,7 +172,7 @@ Full transformation logic is available in the main SQL file.
 
 ---
 
-## Author and Notes
+## Notes
 
 This project was developed as part of a mock business case analyzing an e-commerce dataset.
 The company name and logo are fictional, created solely for visualization purposes.
